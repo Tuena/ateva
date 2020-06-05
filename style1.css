@@ -1,0 +1,56 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+    background-image: url(style1photo.jpeg);
+    background-size: cover;
+    background-position: center;
+    }
+
+.sign-up-form1
+{
+    width:300px;
+    box-shadow:0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+    padding: 20px;
+    margin:8% auto 0;
+    text-align: center;
+}
+ h1
+{color: #ffff;
+text-align:center;
+margin-top: 20px
+margin-bottom:20px;
+background-color: coral;
+}
+
+.input-box1{
+    border-radius: 20px;
+    padding:10px;
+    margin:10px 0;
+    
+    width:100%;
+    border:1px solid #9999;
+   outline: none;
+        
+}
+button{
+    color: #fff;
+    width:100%;
+    padding:10px;
+    border-radius: 20px;
+    font-size:15px;
+    margin:10px 0;
+    border:none;
+    outline:none;
+    cursor:pointer;
+   }
+.lgn{
+    background-color:coral;
+       }
+a{text-decoration:none; }
+}
+
+
+    
+   
